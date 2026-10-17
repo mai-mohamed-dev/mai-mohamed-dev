@@ -6,6 +6,6 @@ With [3] years in software development and [2] years in machine learning, she un
 
 She holds a **master's degree in smart home data analysis**, where she applied **machine learning** to sensor and IoT data. This gives her a data-driven approach to DevOps, especially in monitoring, anomaly detection, and automating the delivery of data and ML workloads.
 
-Mai builds end-to-end projects that take an application from commit → build → test → container image → deployment → monitoring, with a focus on automation, repeatability, and clear documentation. 
+Mai builds end-to-end projects that take an application from commit → build → test → container image → deployment → monitoring, with a focus on automation, repeatability, and clear documentation. With a full-stack background in **.NET, APIs, microservices, SQL (PostgreSQL/MySQL), and web frontends**, she's comfortable troubleshooting issues anywhere between the database and the browser.
 
 She shares her learning in public through cheat sheets, step-by-step guides, and project walkthroughs on GitHub, so everything in her repositories is something she has built and tested herself.
