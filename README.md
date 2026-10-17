@@ -9,3 +9,11 @@ She holds a **master's degree in smart home data analysis**, where she applied *
 Mai builds end-to-end projects that take an application from commit → build → test → container image → deployment → monitoring, with a focus on automation, repeatability, and clear documentation. With a full-stack background in **.NET, APIs, microservices, SQL (PostgreSQL/MySQL), and web frontends**, she's comfortable troubleshooting issues anywhere between the database and the browser.
 
 She shares her learning in public through cheat sheets, step-by-step guides, and project walkthroughs on GitHub, so everything in her repositories is something she has built and tested herself.
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mai-mohamed-dev&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mai-mohamed-dev&layout=compact&theme=tokyonight" />
+</p>
