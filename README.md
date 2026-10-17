@@ -52,6 +52,9 @@ She shares her learning in public through cheat sheets, step-by-step guides, and
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mai-mohamed-dev&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mai-mohamed-dev&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mai-mohamed-dev&show_icons=true" />
+  <img src="https://streak-stats.demolab.com/?user=mai-mohamed-dev&hide_border=true" alt="GitHub streak" />
+</p>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mai-mohamed-dev&layout=compact" />
 </p>
