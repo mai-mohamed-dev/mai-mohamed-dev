@@ -34,6 +34,7 @@ She shares her learning in public through cheat sheets, step-by-step guides, and
 **Monitoring and Security**
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-F11818?logo=zabbix&logoColor=white)
 
 **Scripting**
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
